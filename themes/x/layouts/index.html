@@ -1,0 +1,10 @@
+{{ partial "head.html" . }}
+<h1>Aaron William David Brady</h1>
+<main class="posts">
+  <article class="post">
+    {{ range .Data.Pages }}
+    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    {{ end }}
+  </article>
+</main>
+{{ partial "foot.html" . }}
