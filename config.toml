@@ -1,0 +1,5 @@
+baseurl = "https://www.insom.me.uk/"
+languageCode = "en-ie"
+title = "Not Safe From Wolves"
+theme = "heather-hugo"
+#permalinks = post: /:year/:month/:title/
