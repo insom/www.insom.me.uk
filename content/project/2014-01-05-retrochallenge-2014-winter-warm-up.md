@@ -1,10 +1,9 @@
 ---
 title: Retrochallenge 2014 Winter Warm-up
-layout: post
 date: 2014-01-05
 url: /2014/01/retrochallenge-2014-winter-warm-up/
-categories:
-  - Uncategorized
+draft: false
+type: project
 ---
 After a [PINE-related conversation][1] with [Twylo][2], I&rsquo;ve made a [late entry to Retrochallenge&rsquo;s 2014 Winter Warmup][3]:
 

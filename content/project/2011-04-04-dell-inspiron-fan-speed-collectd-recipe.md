@@ -1,10 +1,9 @@
 ---
 title: Dell Inspiron Fan Speed Collectd Recipe
-layout: post
 date: 2011-04-04
 url: /2011/04/dell-inspiron-fan-speed-collectd-recipe/
-categories:
-  - Uncategorized
+draft: false
+type: project
 ---
 First, `modprobe i8k`, then add the following to your collectd config:
 

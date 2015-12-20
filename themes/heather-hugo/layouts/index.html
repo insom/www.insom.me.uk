@@ -1,10 +1,16 @@
 {{ partial "head.html" . }}
-<h1>Aaron William David Brady</h1>
 <main class="posts">
   <article class="post">
-    {{ range .Data.Pages }}
-    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    {{ $paginator := .Paginate (where .Data.Pages "Type" "project") }}
+    <h2>Projects</h2>
+    {{ range $paginator.Pages }}
+    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
     {{ end }}
+
+    {{ if .Paginator.HasNext }}
+    <a href="{{ .Paginator.Next.URL }}">Next</a>
+    {{ end }}
+
   </article>
 </main>
 {{ partial "foot.html" . }}

@@ -1,10 +1,9 @@
 ---
 title: Back My Twits Up
-layout: post
 date: 2010-11-29
 url: /2010/11/back-my-twits-up/
-categories:
-  - Uncategorized
+draft: false
+type: project
 ---
 My first published code in quite a long time, [bmtu][1].
 

@@ -1,10 +1,9 @@
 ---
 title: 'LindyPi Build- Software'
-layout: post
 date: 2013-06-10
 url: /2013/06/lindypi-build-software/
-categories:
-  - Uncategorized
+draft: false
+type: project
 ---
 Following on from the fairly [straightforward build process][1] of building my new Raspberry Pi server, I thought I&rsquo;d document the software stack too.
 

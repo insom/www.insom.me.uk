@@ -1,10 +1,9 @@
 ---
 title: Graphing Raspberry Pi internal temperature with collectd
-layout: post
 date: 2013-07-02
 url: /2013/07/graphing-raspberry-pi-internal-temperature-with-collectd/
-categories:
-  - Uncategorized
+type: project
+draft: false
 ---
 I&rsquo;m a big fan of [collectd][1], the pluggable metrics collection daemon, and I came across [this post][2] about checking the temperature, so I decided to get collectd up and running on my Pi and pull some graphs out to see if there are any trends.
 

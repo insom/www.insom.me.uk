@@ -1,10 +1,9 @@
 ---
 title: Controlling a PiGlow with the Bus Pirate
-layout: post
 date: 2014-04-20
 url: /2014/04/controlling-a-piglow-with-the-bus-pirate/
-categories:
-  - Uncategorized
+draft: false
+type: project
 ---
 <blockquote class="twitter-tweet" lang="en">
   <p>

@@ -1,10 +1,9 @@
 ---
 title: Making GPG Fingerprints Friendlier
-layout: post
 date: 2014-05-28
 url: /2014/05/making-gpg-fingerprints-friendlier/
-categories:
-  - Uncategorized
+type: project
+draft: false
 ---
 I received a [keybase.io][1] invite from [@whiskers75][2], and have set [my profile][3] up.
 

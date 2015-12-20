@@ -1,10 +1,9 @@
 ---
 title: My New Old Keyboard
-layout: post
 date: 2014-06-01
 url: /2014/06/my-new-old-keyboard/
-categories:
-  - Uncategorized
+draft: false
+type: project
 ---
 Coming up on two years ago, [Nick][1] (our Managing Director at work) ordered this:
 

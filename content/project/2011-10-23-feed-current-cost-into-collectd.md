@@ -1,10 +1,9 @@
 ---
 title: Feed Current Cost into collectd
-layout: post
 date: 2011-10-23
 url: /2011/10/feed-current-cost-into-collectd/
-categories:
-  - Uncategorized
+draft: false
+type: project
 ---
 I own a Current Cost Envi (CC128), and was recently sent the RJ45<>USB lead by e.on, my power supplier.
 

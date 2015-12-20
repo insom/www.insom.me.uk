@@ -1,10 +1,9 @@
 ---
 title: 'LindyPi Build- Hardware'
-layout: post
 date: 2013-06-02
 url: /2013/06/lindypi-build-hardware/
-categories:
-  - Uncategorized
+type: project
+draft: false
 ---
 [![][1]][2]
 
