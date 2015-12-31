@@ -1,9 +1,7 @@
 {{ partial "head.html" . }}
 <main class="posts">
   <article class="post">
-    {{ $paginator := .Paginate (where .Data.Pages "Type" "project") }}
-    <h2>Projects</h2>
-    {{ range $paginator.Pages }}
+    {{ range (.Paginator 30).Pages }}
     <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
     {{ end }}
 

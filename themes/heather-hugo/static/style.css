@@ -68,3 +68,15 @@ h1 a { color: #333;}
 .gray { color: #999; }
 
 img { max-width: 100% }
+
+.barbarjinks {
+    position: fixed;
+    border-bottom: 1px solid black;
+    top: 0;
+    left: 0;
+    background-color: pink;
+    opacity: 0.9;
+    padding: 1em;
+    width: 100%;
+}
+body { margin-top: 40px }
