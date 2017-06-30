@@ -83,7 +83,7 @@ Patching into an RC car&rsquo;s resistors<sup id="fnref-2"><a class="footnote-re
 
 <div class="footnote">
   <hr />
-  
+
   <ol>
     <li id="fn-1">
       I got free tickets to the Design Museum in London last year, and they literally had one of these keyboard on display, next to the also iconic but <em>much</em> less pleasant to use ADB mouse.&nbsp;<a class="footnote-backref" href="#fnref-1" rev="footnote" title="Jump back to footnote 1 in the text">&#8617;</a>
@@ -95,8 +95,8 @@ Patching into an RC car&rsquo;s resistors<sup id="fnref-2"><a class="footnote-re
 </div>
 
  [1]: https://twitter.com/nickpinson
- [2]: https://insom.iweb-storage.com/public/files/apple-bt.jpeg?inline=1
- [3]: https://insom.iweb-storage.com/public/files/apple-extended-keyboard-ii.jpeg?inline=1
+ [2]: https://insm.cf/=/apple-bt.jpeg?inline=1
+ [3]: https://insm.cf/=/apple-extended-keyboard-ii.jpeg?inline=1
  [4]: https://archive.org/details/Apple_IIgs_Hardware_Reference
  [5]: http://www.microchip.com/stellent/idcplg?IdcService=SS_GET_PAGE&nodeId=1824&appnote=en011062
  [6]: https://gitorious.org/arduino-adb
@@ -110,9 +110,9 @@ Patching into an RC car&rsquo;s resistors<sup id="fnref-2"><a class="footnote-re
  [14]: http://www.obdev.at/products/crosspack/index.html
  [15]: https://github.com/tmk/tmk_keyboard/blob/master/doc/build.md
  [16]: http://www.pjrc.com/teensy/hid_listen.html
- [17]: https://insom.iweb-storage.com/public/files/c7c82c85.png?inline=1
+ [17]: https://insm.cf/=/c7c82c85.png?inline=1
  [18]: https://68kmla.org/forums/index.php?/topic/13901-how-to-repair-an-alps-keyswitch-in-15-steps/
- [19]: https://insom.iweb-storage.com/public/files/6fa571b8.png?inline=1
- [20]: https://insom.iweb-storage.com/public/files/5ad0f9f1.png?inline=1
+ [19]: https://insm.cf/=/6fa571b8.png?inline=1
+ [20]: https://insm.cf/=/5ad0f9f1.png?inline=1
 
 

@@ -37,7 +37,7 @@ to bring up the built-in VNC client.
 
 Outside of terminal work, having a separate Chromium install you can use from another machine is great when you don&rsquo;t trust the browser on the random machine you happen to be using, or when you want to see the view of a site from &ldquo;outside&rdquo; of your current network.
 
- [1]: https://insom.iweb-storage.com/public/files/d428c1c7.png?inline=1
+ [1]: https://insm.cf/=/d428c1c7.png?inline=1
  [2]: https://www.insom.me.uk/post/lindy-pi-2.html
  [3]: http://www.pcmag.com/slideshow_viewer/0,3253,l=256274&a=256274&po=2,00.asp
  [4]: https://www.iweb-hosting.co.uk/

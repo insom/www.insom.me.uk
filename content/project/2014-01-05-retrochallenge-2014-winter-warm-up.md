@@ -10,8 +10,8 @@ After a [PINE-related conversation][1] with [Twylo][2], I&rsquo;ve made a [late 
 >   * setting up a dumb terminal (I&rsquo;m planning on using a Raspberry Pi booting straight into a single-user-mode Minicom session, which would make a cheap PockeTerm alternative.) and use only an 80&times;25 text session for interacting with:
 >   * an emulated &rsquo;96-era Unix. Possibly Redhat 3.0.3 under i386. I also used Solaris and Ultrix on SparcStation and DECstations around this time (this was practically retrocomputing when I was doing it the first time!) &ndash; maybe getting one or other of these working under QEMU leading to:
 >   * using a PPP session from the emulated Unix as my main way of interacting with the social world: updating my blog, reading my email (delivered in batch via UUCP or POP3), Twitter (anachromism), IRC.
-> 
-> In summary: a terminal-only interface to an old Unix using serial as its only access to the outside world. 
+>
+> In summary: a terminal-only interface to an old Unix using serial as its only access to the outside world.
 
 I&rsquo;m happy to report some success on the first point: I have a Raspberry Pi booting straight into a fullscreen 80x25ish<sup id="fnref-1"><a class="footnote-ref" href="#fn-1" rel="footnote">1</a></sup> Minicom session, over an actual serial port. It&rsquo;s as close to a [PockeTerm][4] as I could make: low resolution, over actual RS232, and not running a full Unix environment in the background (if you could run `ps`, process #1 would be minicom).
 
@@ -85,7 +85,7 @@ If you exit Minicom, the kernel will panic- but that&rsquo;s okay: you can just 
 
 <div class="footnote">
   <hr />
-  
+
   <ol>
     <li id="fn-1">
       The font I was able to use gives me 80&#215;32, but it looks suitably retro compared to the sharp high-resolution displays we&rsquo;re spoiled with nowadays.&nbsp;<a class="footnote-backref" href="#fnref-1" rev="footnote" title="Jump back to footnote 1 in the text">&#8617;</a>
@@ -98,9 +98,9 @@ If you exit Minicom, the kernel will panic- but that&rsquo;s okay: you can just 
  [3]: http://www.wickensonline.co.uk/retrochallenge-2012sc/2014-winter-warmup-entrants-list/
  [4]: http://www.brielcomputers.com/wordpress/?cat=25
  [5]: http://www.davidhunt.ie/?p=3091
- [6]: https://insom.iweb-storage.com/public/files/f164d156.png?inline=1
- [7]: https://insom.iweb-storage.com/public/files/6e19782b.png?inline=1
- [8]: https://insom.iweb-storage.com/public/files/b7746bbe.png?inline=1
+ [6]: https://insm.cf/=/f164d156.png?inline=1
+ [7]: https://insm.cf/=/6e19782b.png?inline=1
+ [8]: https://insm.cf/=/b7746bbe.png?inline=1
  [9]: http://www.raspberrypi.org/downloads
  [10]: http://www.amazon.co.uk/gp/product/B00425S1H8?ie=UTF8&camp=3194&creative=21330&creativeASIN=B00425S1H8&linkCode=shr&tag=virtuvitri-21&qid=1388954621&sr=8-1&keywords=prolific+2303
 

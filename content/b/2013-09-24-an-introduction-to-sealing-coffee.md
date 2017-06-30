@@ -16,7 +16,7 @@ Actually sealed:
 
 ![][2]
 
- [1]: https://insom.iweb-storage.com/public/files/f2fccf8c.png?inline=1
- [2]: https://insom.iweb-storage.com/public/files/2cd79739.png?inline=1
+ [1]: https://insm.cf/=/f2fccf8c.png?inline=1
+ [2]: https://insm.cf/=/2cd79739.png?inline=1
 
 

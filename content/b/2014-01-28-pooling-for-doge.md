@@ -12,11 +12,11 @@ Just a quick update on how Dogecoin continues to dominate my life.
 
 I&rsquo;ve gone a bit off track; it used to be about the lols, but now that it has a substantial value (I sold some for 240 Satoshis<sup id="fnref-1"><a class="footnote-ref" href="#fn-1" rel="footnote">1</a></sup>!) I&rsquo;m mining it with my co-workers so we can buy a video card for a gaming machine we&rsquo;ve commandeered at work.
 
-(The 20,000&#393; I spent on this wonderful portrait was worth nearly &pound;30 at one point)<blockquote class="twitter-tweet" 
+(The 20,000&#393; I spent on this wonderful portrait was worth nearly &pound;30 at one point)<blockquote class="twitter-tweet"
 
 lang="en">Clarification: [@insom][2] bought me a lovely portrait using doge coins! Love it [pic.twitter.com/KF643hteRx][3]
 
-&mdash; Helen (@Knittage) [January 19, 2014][4]</blockquote> 
+&mdash; Helen (@Knittage) [January 19, 2014][4]</blockquote>
 
 
 
@@ -36,7 +36,7 @@ Exciting times ahead.
 
 <div class="footnote">
   <hr />
-  
+
   <ol>
     <li id="fn-1">
       One Satoshi is a 100-millionth of a Bitcoin&nbsp;<a class="footnote-backref" href="#fnref-1" rev="footnote" title="Jump back to footnote 1 in the text">&#8617;</a>
@@ -44,7 +44,7 @@ Exciting times ahead.
   </ol>
 </div>
 
- [1]: https://insom.iweb-storage.com/public/files/dogegraph.png?inline=1
+ [1]: https://insm.cf/=/dogegraph.png?inline=1
  [2]: https://twitter.com/insom
  [3]: http://t.co/KF643hteRx
  [4]: https://twitter.com/Knittage/statuses/425036047119314944

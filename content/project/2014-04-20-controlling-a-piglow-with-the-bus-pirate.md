@@ -9,7 +9,7 @@ type: project
   <p>
     Also: for Pi day I got a PiBow, PiGlow and PiBrella!
   </p>
-  
+
   <p>
     &mdash; Aaron Brady (@insom) <a
 href="https://twitter.com/insom/statuses/444590498511347712">March 14, 2014</a>
@@ -58,52 +58,52 @@ I2C requires pull up resistors. As the Bus Pirate runs at both `3.3V` and `5V`, 
       Raspberry Pi Pins
     </th>
   </tr>
-  
+
   <tr>
     <td>
       GND
     </td>
-    
+
     <td>
       14
     </td>
   </tr>
-  
+
   <tr>
     <td>
       5v
     </td>
-    
+
     <td>
       2
     </td>
   </tr>
-  
+
   <tr>
     <td>
       3.3v
     </td>
-    
+
     <td>
       1, 17
     </td>
   </tr>
-  
+
   <tr>
     <td>
       SDA
     </td>
-    
+
     <td>
       3
     </td>
   </tr>
-  
+
   <tr>
     <td>
       SCL
     </td>
-    
+
     <td>
       5
     </td>
@@ -233,22 +233,22 @@ And our first hint that any of this is really working, the `Hello World` of elec
  [1]: http://www.piday.org/
  [2]: http://www.urbandictionary.com/define.php?term=Steak%20and%20Blowjob%20Day
  [3]: http://dangerousprototypes.com/docs/Bus_Pirate
- [4]: https://insom.iweb-storage.com/public/files/024f5b5c.png?inline=1
+ [4]: https://insm.cf/=/024f5b5c.png?inline=1
  [5]: https://code.google.com/p/the-bus-pirate/
  [6]: http://dangerousprototypes.com/2009/07/30/prototype-bus-pirate-3eeprom-explorer-board/
  [7]: http://shop.pimoroni.com/products/piglow
- [8]: https://insom.iweb-storage.com/public/files/8f8b11a0.png?inline=1
+ [8]: https://insm.cf/=/8f8b11a0.png?inline=1
  [9]: http://www.si-en.com/uploadpdf/s2011517171720.pdf
  [10]: http://shop.pimoroni.com/products/adafruit-pi-t-cobbler-breakout-kit-for-raspberry-pi
  [11]: http://www.ebay.co.uk/itm/281209204268
  [12]: http://www.ebay.co.uk/itm/221397350202
  [13]: http://www.hobbytronics.co.uk/bus-pirate-cable
- [14]: https://insom.iweb-storage.com/public/files/038d7364.png?inline=1
+ [14]: https://insm.cf/=/038d7364.png?inline=1
  [15]: http://crocketteng.com/blog/bus-pirate-pinout/
- [16]: https://insom.iweb-storage.com/public/files/028f0455.png?inline=1
+ [16]: https://insm.cf/=/028f0455.png?inline=1
  [17]: https://github.com/pimoroni/piglow/blob/master/examples/piglow-example.py
  [18]: https://github.com/Boeeerb/PiGlow
  [19]: https://raw.github.com/Boeeerb/PiGlow/master/SN3218_addressing.jpg
- [20]: https://insom.iweb-storage.com/public/files/ac2a0456.png?inline=1
+ [20]: https://insm.cf/=/ac2a0456.png?inline=1
 
 

@@ -19,8 +19,8 @@ That said, I&rsquo;m still saving power (kind of), because I&rsquo;m using an HP
 (You can tell I&rsquo;m still convincing myself, right?)
 
  [1]: https://twitter.com/balloz
- [2]: https://insom.iweb-storage.com/public/files/633622e5.png?inline=1
- [3]: https://insom.iweb-storage.com/public/files/3ef46164.png?inline=1
+ [2]: https://insm.cf/=/633622e5.png?inline=1
+ [3]: https://insm.cf/=/3ef46164.png?inline=1
  [4]: https://www.insom.me.uk/post/lindy-pi-1.html
  [5]: http://www.plexapp.com/
  [6]: http://www.amazon.co.uk/gp/product/B006VTASUQ/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B006VTASUQ&linkCode=as2&tag=virtuvitri-21
